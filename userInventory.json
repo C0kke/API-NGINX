@@ -1,0 +1,23 @@
+[
+  {
+    "id": "auth0|usr_123abc456",
+    "email": "carlos.manzano@ucn.cl",
+    "name": "Carlos Manzano",
+    "groups": ["admin", "profesores"],
+    "status": "active"
+  },
+  {
+    "id": "google-oauth2|usr_789xyz123",
+    "email": "estudiante.dev@email.com",
+    "name": "Estudiante Desarrollador",
+    "groups": ["desarrollo", "equipo-nginx"],
+    "status": "active"
+  },
+  {
+    "id": "auth0|usr_456def789",
+    "email": "invitado@email.com",
+    "name": "Usuario Invitado",
+    "groups": ["invitados"],
+    "status": "disabled"
+  }
+]

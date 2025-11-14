@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mender-device-001",
+    "owner_email": "estudiante.dev@email.com",
+    "device_type": "laptop",
+    "os": "Windows 11",
+    "mac_address": "00:1A:2B:3C:4D:5E",
+    "security_status": "compliant",
+    "last_seen": "2025-11-03T17:50:00Z"
+  },
+  {
+    "id": "mender-device-002",
+    "owner_email": "carlos.manzano@ucn.cl",
+    "device_type": "pc",
+    "os": "Ubuntu 22.04",
+    "mac_address": "F6:E5:D4:C3:B2:A1",
+    "security_status": "compliant",
+    "last_seen": "2025-11-03T17:55:00Z"
+  },
+  {
+    "id": "mender-device-003",
+    "owner_email": "estudiante.dev@email.com",
+    "device_type": "raspberry",
+    "os": "Raspbian OS",
+    "mac_address": "AA:BB:CC:DD:EE:FF",
+    "security_status": "non_compliant",
+    "last_seen": "2025-11-01T10:00:00Z"
+  }
+]
